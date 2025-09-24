@@ -1,0 +1,3 @@
+[submodule "eduteka-course-apirest-frontend"]
+	path = eduteka-course-apirest-frontend
+	url = https://github.com/edutekabr/eduteka-course-apirest-frontend
